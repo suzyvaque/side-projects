@@ -1,0 +1,15 @@
+summary for cda.20-constantv62-18d13h15m11s.csv, , , , , , , , 
+ , , , , , , , , 
+Raced Until, Average Speed, Total Travelled Distance (km), Final SoC (%), Default Speed, CdA, , , 
+Day 6 17:00,62,2929,19,62,0.200000, , , 
+ , , , , , , , , 
+Day, Average Power Gen (W), Average Power Con (W), Average Speed (kph), SoC at 8:00 (%), SoC at 17:00 (%), Number of Stops due to Low SoC, Travelled Distance Today (km), Distance to Adelaide (km)
+1,645,878,62,100,70,0,527,2508
+2,656,879,62,74,60,0,496,2012
+3,669,879,62,65,55,0,496,1516
+4,663,878,62,58,34,0,527,989
+5,666,879,62,37,26,0,496,493
+6,651,880,62,29,19,9,387,105
+ , , , , , , , , 
+ , , , , , , , , 
+ , , , , , , , , 
