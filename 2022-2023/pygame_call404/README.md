@@ -1,3 +1,9 @@
+Mini dot game 'call404' developed in 2022 using the pygame module.
+
+Some enhancements may be required...
+
+-----
+
 # call_404
 
 Waking up, you found yourself at an apocalypse Earth threatened by aliens.
