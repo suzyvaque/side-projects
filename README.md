@@ -4,7 +4,7 @@
   * [CANMT Position Encoding](#canmt-position-encoding)
 - [2022-2023](#2022-2023)
   * [Strategy Program for the World Solar Vehicle Challenge](#strategy-program-for-the-world-solar-vehicle-challenge)
-  * [Pygame Call 404](#pygame_call404)
+  * [Pygame call404](#pygame_call404)
 
 ## 2024
 
